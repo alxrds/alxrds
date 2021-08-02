@@ -17,4 +17,4 @@ Analista de Dados.
 ### Abaixo meu site pessoal.
 :link: [Website](https://alexandrerodrigues.com/)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alxrds)
+
