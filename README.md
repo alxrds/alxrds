@@ -15,6 +15,6 @@ Pós Graduando em Ciência de Dados.
 
 
 ### Abaixo meu site pessoal.
-:link: [Website](https://alexandrerodrigues.com/)
+:link: [alexandrerodrigues.com](https://alexandrerodrigues.com/)
 
 
