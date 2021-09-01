@@ -4,7 +4,7 @@
 
 ### O que faço?
 Sou Analista de Sistemas e
-Pós Graduando em Ciencia de Dados.
+Pós Graduando em Ciência de Dados.
 
 ### O que eu tenho em meu repositório:
 
