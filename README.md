@@ -4,7 +4,7 @@
 
 ### O que faço?
 Sou Desenvolvedor de Sistemas Web e 
-Analista de Dados.
+Cientista de Dados.
 
 ### O que eu tenho em meu repositório:
 
