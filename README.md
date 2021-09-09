@@ -9,7 +9,7 @@ Pós Graduando em Ciência de Dados.
 ### O que eu tenho em meu repositório:
 
  - Scripts criados em cursos que fiz.
- - Resoluções de exercícios.
+ - Resoluções de alguns exercícios.
  - Códigos feitos em aulas e treinamentos.
  - Pequenos projetos para teste de conhecimento.
 
