@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
 
 ### O que faço?
-Sou Graduado em Analise e Desenvolvimento de Sistemas e
+Graduado em Análise e Desenvolvimento de Sistemas
 Pós Graduando em Ciência de Dados.
 
 ### O que eu tenho em meu repositório:
