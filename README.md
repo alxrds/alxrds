@@ -13,6 +13,8 @@ Pós Graduando em Ciência de Dados.
  - Códigos feitos em aulas e treinamentos.
  - Pequenos projetos para teste de conhecimento.
 
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/alxrds/github-readme-stats)
+
 
 ### Abaixo meu site pessoal.
 :link: [alexandrerodrigues.com](https://alexandrerodrigues.com/)
