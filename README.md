@@ -17,6 +17,4 @@ Pós Graduando em Ciência de Dados.
 ### Abaixo meu site pessoal.
 :link: [alexandrerodrigues.com](https://alexandrerodrigues.com/)
 
-[![alxrds GitHub stats](https://github-readme-stats.vercel.app/api?username=alxrds)](https://github.com/hellenmas/github-readme-stats)
-
-
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=alxrds)
