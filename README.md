@@ -3,11 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
 
 <br>
+
 ### O que faço?
 Graduado em Análise e Desenvolvimento de Sistemas e
 Pós Graduando em Ciência de Dados.
 
 <br>
+
 ### O que eu tenho em meu repositório:
 
  - Códigos criados em cursos e treinamentos.
@@ -15,10 +17,12 @@ Pós Graduando em Ciência de Dados.
  - Pequenos projetos para teste de conhecimento.
 
 <br>
+
 ### Portfolio.
 :link: [https://alexandrerodrigues.com](https://alexandrerodrigues.com/)
 
 <br>
+
 ### Estatíticas do Git.
 <div>
  <img  width="55%" src="https://github-readme-stats.vercel.app/api?username=alxrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
