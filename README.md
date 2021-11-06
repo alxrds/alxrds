@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavobarbosa01&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+
 ### O que faço?
 Graduado em Análise e Desenvolvimento de Sistemas e
 Pós Graduando em Ciência de Dados.
