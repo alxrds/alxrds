@@ -5,8 +5,7 @@
 
 
 ### O que faço?
-Graduado em Análise e Desenvolvimento de Sistemas e
-Pós Graduando em Ciência de Dados.
+Analista de Sistemas e Cientista de dados
 
 
 
