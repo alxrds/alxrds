@@ -12,7 +12,7 @@ Analista de Sistemas e Cientista de dados
 ### O que eu tenho em meu repositório:
 
  - Códigos criados em cursos e treinamentos.
- - Resoluções de alguns exercícios.
+ - Resoluções de exercícios.
  - Pequenos projetos para teste de conhecimento.
 
 
