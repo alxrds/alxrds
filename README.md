@@ -5,7 +5,7 @@
 
 
 ### O que faço?
-Analista de Sistemas e Cientista de dados
+Analista de Sistemas e aspirante a Cientista de dados
 
 
 
