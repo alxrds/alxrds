@@ -17,11 +17,6 @@ Analista de Sistemas e aspirante a Cientista de dados
 
 
 
-### Portfolio.
-:link: [https://alexandrerodrigues.com](https://alexandrerodrigues.com/)
-
-
-
 ### Estatíticas do Git.
 <div>
  <img  width="55%" src="https://github-readme-stats.vercel.app/api?username=alxrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
