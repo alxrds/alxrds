@@ -4,6 +4,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
  
+ 
  <img width="20%" align="right" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
 
 
@@ -16,7 +17,15 @@
   - Códigos criados em cursos e treinamentos.
   - Resoluções de exercícios.
   - Pequenos projetos para teste de conhecimento.
+ 
+ 
+ 
 </div>
+
+
+
+
+
 
 <div>
  ### Estatíticas do Git.
