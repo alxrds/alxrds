@@ -4,7 +4,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
 </div>
 
-<div>
+
  <div width="50%">
 
  ### O que faço?
@@ -18,12 +18,10 @@
   - Resoluções de exercícios.
   - Pequenos projetos para teste de conhecimento.
 
+ <img width="20%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+  
  </div>
 
- <div width="20%">
- <img src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
- </div>
-</div>
 
 ### Estatíticas do Git.
 <div>
