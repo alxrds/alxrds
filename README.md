@@ -1,11 +1,11 @@
 
- <div>
+
  # Olá, sou Alexandre Rodrigues!
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
  
  
- <img width="20%" align="right" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+ <img width="10%" align="right" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
 
 
  ### O que faço?
@@ -20,16 +20,13 @@
  
  
  
-</div>
 
 
 
 
-
-
-<div>
  ### Estatíticas do Git.
+ 
  <img  width="60%" src="https://github-readme-stats.vercel.app/api?username=alxrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxrds&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
