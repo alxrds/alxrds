@@ -7,7 +7,7 @@
  <img width="15%" align="right" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
 
  ### O que faço?
- Analista de Sistemas e Analista de dados
+ Analista de Sistemas e Dados
 
  ### O que eu tenho em meu repositório:
 
