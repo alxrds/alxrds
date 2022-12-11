@@ -26,7 +26,7 @@
 
  ### Estatíticas do Git.
  
- <img  width="60%" src="https://github-readme-stats.vercel.app/api?username=alxrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img  width="55%" src="https://github-readme-stats.vercel.app/api?username=alxrds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img  width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxrds&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
