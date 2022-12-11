@@ -1,21 +1,29 @@
-# Olá, sou Alexandre Rodrigues!
+<div>
+ # Olá, sou Alexandre Rodrigues!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
+</div>
 
+<div>
+ <div>
 
-
-### O que faço?
-Analista de Sistemas e aspirante a Cientista de dados
-
-
-
-### O que eu tenho em meu repositório:
-
- - Códigos criados em cursos e treinamentos.
- - Resoluções de exercícios.
- - Pequenos projetos para teste de conhecimento.
+ ### O que faço?
+ Analista de Sistemas e aspirante a Cientista de dados
 
 
+
+ ### O que eu tenho em meu repositório:
+
+  - Códigos criados em cursos e treinamentos.
+  - Resoluções de exercícios.
+  - Pequenos projetos para teste de conhecimento.
+
+ </div>
+
+ <div>
+ <img  width="55%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+ </div>
+</div>
 
 ### Estatíticas do Git.
 <div>
