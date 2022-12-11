@@ -4,7 +4,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
 
 
-<div align="center">
+<div width="20%" align="left">
  ### O que faço?
  Analista de Sistemas e aspirante a Cientista de dados
 
