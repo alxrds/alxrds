@@ -20,8 +20,8 @@
 
  </div>
 
- <div>
- <img  width="20%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+ <div width="20%">
+ <img src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
  </div>
 </div>
 
