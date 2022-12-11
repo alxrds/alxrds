@@ -4,7 +4,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
 
 
-<div width="20%" align="left">
+<div width="40%" align="left">
  ### O que faço?
  Analista de Sistemas e aspirante a Cientista de dados
 
@@ -16,9 +16,9 @@
   - Pequenos projetos para teste de conhecimento.
 </div>
 
-
-<img width="20%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
-  
+<div width="20%" align="right">
+ <img width="20%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+</div>
 
 ### Estatíticas do Git.
 <div>
