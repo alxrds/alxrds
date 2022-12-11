@@ -5,7 +5,7 @@
 </div>
 
 <div>
- <div>
+ <div width="50%">
 
  ### O que faço?
  Analista de Sistemas e aspirante a Cientista de dados
@@ -21,7 +21,7 @@
  </div>
 
  <div>
- <img  width="55%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+ <img  width="20%" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
  </div>
 </div>
 
