@@ -4,7 +4,7 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alxrds/)](https://www.linkedin.com/in/alxrds/)
  
- <img width="15%" align="right" src="http://alexandrerodrigues.dev.br/assets/images/19.png"/>
+ <img width="15%" align="right" src="https://play.dev.br/assets/img/19.png"/>
 
  ### O que faço?
  Analista de Sistemas e Dados
