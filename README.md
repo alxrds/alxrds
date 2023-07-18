@@ -9,7 +9,7 @@
  ### O que faço?
  Analista de Sistemas e de Banco de Dados.
 
- ### O que eu tenho em meu repositório: 
+ ### O que eu tenho em meu repositório:
 
   - Códigos criados em cursos e treinamentos. 
   - Resoluções de exercícios.
