@@ -7,7 +7,7 @@
  <img width="15%" align="right" src="https://play.dev.br/assets/img/19.png"/>
 
  ### O que faço?
- Analista de Sistemas e de Banco de Dados.
+ Analista de Sistemas e Banco de Dados.
 
  ### O que eu tenho em meu repositório:
 
